@@ -1,0 +1,35 @@
+# Virtual environments
+.venv/
+venv/
+venv library root/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - exclude if large/sensitive)
+*.json
+*.csv
+*.pkl
+*.h5
+*.pt
+*.pth
